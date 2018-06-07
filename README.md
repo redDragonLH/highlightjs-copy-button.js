@@ -1,4 +1,4 @@
-# highlightjs-copy-button.js [![version](http://img.shields.io/badge/release-v1.0.5-brightgreen.svg?style=flat)](https://github.com/DevCreel/highlightjs-copy-button.js/archive/master.zip)
+# highlightjs-copy-button.js [![version](http://img.shields.io/badge/release-v1.0.6-brightgreen.svg?style=flat)](https://github.com/redDragonLH/highlightjs-copy-button.js/archive/stable.zip)
 
 **fix: Button follows scroll bar bug. firefox click button return top bug**
 
