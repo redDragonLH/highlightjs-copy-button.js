@@ -2,6 +2,11 @@
 
 **fix: Button follows scroll bar bug. firefox click button return top bug**
 
+**
+修复按钮跟随滚动条问题，
+修复火狐浏览器点击复制按钮跳到顶部问题
+**
+
 Highlight.js copy button plugin.
 
 [DEMO](https://devcreel.github.io/highlightjs-copy-button.js/)
